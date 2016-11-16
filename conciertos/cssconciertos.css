@@ -1,0 +1,18 @@
+    #body
+    {
+        display: inline-block;
+        width: 80%;
+    }
+    article
+    {
+        display: inline-block;
+        border: 2px #000000 solid;
+        width: 10%;
+        height: 80px;
+        margin: 50px;
+        
+    }
+    article h3
+    {
+        text-align: center;
+    }
