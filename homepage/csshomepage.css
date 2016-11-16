@@ -73,7 +73,7 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     position: absolute;
     top: 170px;
    right: 2%;
-    border: 2px black solid;
+    /*border: 2px black solid;*/
     vertical-align: top;
     
 }
@@ -112,9 +112,11 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 #noticias h3{
     text-align: center;
-    color: red;
+    color: #ffffff;
     font-size: 25px;
     margin: 17px;
+    width: 125%;
+    background-color:  #0000cc;
     
 }
 

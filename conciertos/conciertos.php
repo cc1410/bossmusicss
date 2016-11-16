@@ -44,14 +44,8 @@ and open the template in the editor.
             <article><h3>Concierto</h3></article>
             <article><h3>Concierto</h3></article>
             <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
+             
+           
             
             
         </div>

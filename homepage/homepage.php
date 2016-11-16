@@ -13,7 +13,7 @@ and open the template in the editor.
     <body>
         <header>
             <div id="imagenprincipal">
-                <img src="music.png" alt=""/>
+                <img src="music.jpg" alt=""/>
             </div>
             <div id="logo">
                 <img src="logo1.png" alt=""/>
@@ -26,9 +26,9 @@ and open the template in the editor.
             <div id="menucabezera">
                 <ul>
                     <li><a href="">MENU</a></li>
-                    <li><a href="">NOTICIAS</a></li>
-                    <li><a href="">GRUPOS</a></li>
-                    <li><a href="">CONCIERTOS</a></li>
+                    <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
+                    <li><a href="../grupos/grupos.php">GRUPOS</a></li>
+                    <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
                     <li><a href="">ARTICULOS</a></li>
                     
                 </ul>
