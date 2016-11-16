@@ -1,0 +1,50 @@
+#cuerpo
+{
+    display: inline-block;
+    width: 80%;
+    text-align: center;
+   
+}
+
+#formulario
+{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+   left: 7%;
+    top: 0px;
+    border: 2px black solid;
+    margin-top: 20px;
+    width: 100%;
+    padding: 50px;
+    
+}
+#formulario input
+{
+    margin: 25px;
+}
+
+#registrate
+{
+   display: inline-block;
+    text-align: center;
+    position: relative;
+     left: 7%;
+    top: 0px;
+    margin-top: 5%;
+    border: 2px black solid;
+    padding: 50px;
+    width: 100%;
+    
+}
+#registrate h3
+{
+   font-size: 30px;
+   vertical-align: top;
+}
+#registrate input
+{
+    margin-left: 50px;
+    width: 20%;
+    height: 50px;
+}

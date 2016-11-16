@@ -1,0 +1,128 @@
+#local
+{
+  display: inline-block;
+  border:2px black solid; 
+  width: 70%;
+  margin: 25px;
+  text-align: center;
+      
+
+}
+
+#local div
+{
+    margin:10px;
+    
+}
+#local h3{text-align: center;}
+    
+
+#cliente
+{
+    display: inline-block;
+  border:2px black solid; 
+  width: 40%;
+  text-align: left;
+  padding: 10px;
+  
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  
+}
+#cliente input
+{
+    margin: 1px;
+    
+    border-radius: 57px 57px 57px 57px;
+-moz-border-radius: 57px 57px 57px 57px;
+-webkit-border-radius: 57px 57px 57px 57px;
+border: 0px solid #000000;
+    
+    
+}
+#crear input
+{
+    margin: 1px;
+    
+    border-radius: 57px 57px 57px 57px;
+-moz-border-radius: 57px 57px 57px 57px;
+-webkit-border-radius: 57px 57px 57px 57px;
+border: 0px solid #000000;
+    
+}
+#crear
+{
+    display: inline-block;
+  border:2px black solid;  
+  width: 40%;
+  text-align: left;
+   padding: 10px;
+   
+   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+#contratados
+{
+    display: inline-block;
+  border:2px black solid; 
+  width: 80%;
+  
+ -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  
+}
+#eventos
+{
+    display: inline-block;
+  border:2px black solid; 
+  width: 70%;
+  
+  
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+
+
+#lateral
+{
+    display: inline-block;
+    margin-left: 400px;
+/* border:2px black solid;*/
+ 
+  
+}
+#lateral h3
+{
+    text-align: center;
+}
+#lateral1
+{
+    display: inline-block;
+  border:2px black solid;  
+  margin: 20px;
+  width: 80%;
+    margin-left: 60px;
+    height: 200px;
+    position: relative;
+    top: -50px;
+    
+}
+#lateral2
+{
+    display: inline-block;
+  border:2px black solid;  
+  margin:20px;
+  width: 80%; 
+   margin-left: 60px;
+   height: 200px;
+    position: relative;
+    top: -80px;
+}
+    
+

@@ -1,0 +1,42 @@
+#formulariofans
+{
+    display: inline-block;
+    text-align: center;
+    width: 60%;
+    height: auto;
+    border: 2px black solid;
+    margin-left: 210px;
+    margin-top: 25px;
+    
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#formulariofans input{
+    display: inline-block;
+    margin: 15px;
+
+    
+
+}
+#tituloEstilo{
+    padding: 15px;
+    
+}
+
+#estilo{
+    display: inline-block;
+    width: 26%;
+}
+
+#estilo input{
+    margin: 3px;
+    margin-bottom: 10px;
+}
+
+#daralta input{
+    display: inline-block;
+    position: relative;
+
+}
