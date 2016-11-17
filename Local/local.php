@@ -48,7 +48,7 @@ and open the template in the editor.
                 <form action="" autocomplete="" method="POST">
                     Nombre:<input type="text" value="" name="usuario"><br>
                     Apellidos:<input type="text" value="" name="usuario"><br>
-                    Nombre del local:<input type="text" value="" name="usuario"><br>
+                    Nombre local:<input type="text" value="" name="usuario"><br>
                     Usuario:<input type="text" value="" name="usuario"><br>
                     Ultima Modificacion:<input type="text" value="" name="usuario"><br>
                      <input type="submit" value="Mas...">
