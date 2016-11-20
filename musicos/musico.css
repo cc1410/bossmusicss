@@ -1,0 +1,46 @@
+#rmusic{
+    display: inline-block;
+    width: 100%;
+    background-color: #9999ff;
+    border: 2px;
+    border-color: black;    
+}
+
+#formulario1{
+
+    display: inline;
+}
+
+#formulario2{
+
+    display: inline;
+}
+.datos{
+    display: inline-block;
+
+}
+
+.estado{
+
+    display: inline-block;
+   
+}
+.estado img{
+    width: 30%;
+    height: 30%;
+}
+
+.datos2{
+    display: inline-block;
+
+}
+
+.estado2{
+
+    display: inline-block;
+
+}
+.estado2 img{
+    width: 30%;
+    height: 30%;
+}
