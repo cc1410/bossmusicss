@@ -27,7 +27,6 @@ and open the template in the editor.
             <div id="menucabezera">
                 <ul>
                     <li><a href="">MENU</a></li>
-                    <br>
                     <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
                     <li><a href="">GRUPOS</a></li>
                     <li><a href="">CONCIERTOS</a></li>
