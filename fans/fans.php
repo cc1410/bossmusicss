@@ -9,11 +9,12 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <link href="../homepage/csshomepage.css" rel="stylesheet" type="text/css"/>
+        <link href="cssfans.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
         <header>
             <div id="imagenprincipal">
-                <img src="../homepage/music.png" alt=""/>
+                <img src="../homepage/music.jpg" alt=""/>
             </div>
             <div id="logo">
                 <img src="../homepage/logo1.png" alt=""/>
@@ -40,31 +41,141 @@ and open the template in the editor.
 
         <div id="votar">
             <div id="votarConcierto">
-                
+                <form>
+                <ul> 
+                    <h3>Votacion de Conciertos</h3>
+                   <li>
+                            Conciertos:  1<input type="radio" name="votarc" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Conciertos:  1<input type="radio" name="votarc" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Conciertos:  1<input type="radio" name="votarc" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Conciertos:  1<input type="radio" name="votarc" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Conciertos:  1<input type="radio" name="votarc" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Conciertos:  1<input type="radio" name="votarc" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                        <input type="submit" name="enviarc" value="votarConciertos">
+                </ul></form>
             </div>
             <div id="votarMusico">
-                
+                <form> <ul> 
+                    <h3>Votacion de Músicos</h3>
+                    <li>
+                            Músicos:  1<input type="radio" name="votarm" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Músicos:  1<input type="radio" name="votarm" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Músicos:  1<input type="radio" name="votarm" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Músicos:  1<input type="radio" name="votarm" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Músicos:  1<input type="radio" name="votarm" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                    <li>
+                            Músicos:  1<input type="radio" name="votarc" value="1">
+                            2<input type="radio" name="votarc" value="2"> 
+                            3<input type="radio" name="votarc" value="3"> 
+                            4<input type="radio" name="votarc" value="4"> 
+                            5<input type="radio" name="votarc" value="5"> 
+                        </li>
+                        <input type="submit" name="enviarm" value="votarMúsicos"
+                </ul></form>
             </div>
         </div>
         
         <div id="nuevos">
-            <div clase="nuevosCon">
+            <div>
+                titulo 
+                <p>
+                    Estos son informacion de nuevos conciertos
+                </p>
+            </div>
+            <div>
+                titulo
+                <p>
+                    Estos son informacion de nuevos conciertos
+                </p>
                 
             </div>
-            <div clase="nuevosCon">
-                
+            <div>
+                titulo
+                <p>
+                    Estos son informacion de nuevos conciertos
+                </p>
             </div>
-            <div clase="nuevosCon">
-                
+            <div>
+                titulo
+                <p>
+                    Estos son informacion de nuevos conciertos
+                </p>
             </div>
-            <div clase="nuevosCon">
-                
+            <div>
+                titulo
+                <p>
+                    Estos son informacion de nuevos conciertos
+                </p>
             </div>
-            <div clase="nuevosCon">
-                
-            </div>
-            <div clase="nuevosCon">
-                
+            <div>
+                titulo
+                <p>
+                    Estos son informacion de nuevos conciertos
+                </p>
             </div>
         </div>
         

@@ -12,17 +12,17 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-       <header>
+        <header>
             <div id="imagenprincipal">
                 <img src="../homepage/music.jpg" alt=""/>
             </div>
             <div id="logo">
                 <img src="../homepage/logo1.png" alt=""/>
             </div>
-             <div id="buscar">
-            <form action="" autocomplete="" method="POST">
-                <input type="text"  name="buscar"/> <input type="submit" value="BUSCAR">
-            </form>
+            <div id="buscar">
+                <form action="" autocomplete="" method="POST">
+                    <input type="text"  name="buscar"/> <input type="submit" value="BUSCAR">
+                </form>
             </div>
             <div id="menucabezera">
                 <ul>
@@ -31,73 +31,73 @@ and open the template in the editor.
                     <li><a href="../grupos/grupos.php">GRUPOS</a></li>
                     <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
                     <li><a href="">ARTICULOS</a></li>
-                    
+
                 </ul>
             </div>
             <div id="entrar">
                 <a href=""><input type="button" value="ENTRAR"></a>
             </div>
-           
+
         </header>
-        
-        
-        
+
+
+
         <div id="cuerpo">
             <div id="formulario">
                 <h1>ENTRAR</h1>
                 <form action="" autocomplete="" method="POST">
                     USUARIO: <input type="text" name="usuario"><br>
-                 PASSWORD: <input type="password" name="password"><br>
-                 <input type="submit" value="Entrar">
+                    PASSWORD: <input type="password" name="password"><br>
+                    <input type="submit" value="Entrar">
                 </form>
             </div>
-        
-        
-         <div id="registrate">
+
+
+            <div id="registrate">
                 <h3>Registrate como....</h3>
                 <a href="../registrolocal/registrolocal.php"><input type="button" value="LOCAL"></a>
-             <a href=""><input type="button" value="MUSICO"></a>
-             <a href=""> <input type="button" value="FANS"></a>
-         </div>
+                <a href=""> <input type="button" value="MUSICO"></a>
+                <a href="../registrofans/registrofans.php"><input type="button" value="FANS"></a>
+            </div>
         </div>
-        
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
+
         <div id="footer">
-           <div id="legal">
-               <ul>
-                        <li><a href="">Terminos legales 1</a></li>
-                        <li><a href="">Terminos legales 2</a></li>
-                        <li><a href="">Terminos legales 3</a></li>
-                        <li><a href="">Terminos legales 4</a></li>
-                        <li><a href="">Terminos legales 5</a></li>
-               </ul>
-                
-           </div>
-           <div id="contactos">
+            <div id="legal">
                 <ul>
-                        <li><a href="">Contacto 1</a></li>
-                        <li><a href="">Contacto 2</a></li>
-                        <li><a href="">Contacto 3</a></li>
-                        <li><a href="">Contacto 4</a></li>
-                        <li><a href="">Contacto 5</a></li>
-               </ul>
-                
-           </div>
-           <div id="nosotros">
+                    <li><a href="">Terminos legales 1</a></li>
+                    <li><a href="">Terminos legales 2</a></li>
+                    <li><a href="">Terminos legales 3</a></li>
+                    <li><a href="">Terminos legales 4</a></li>
+                    <li><a href="">Terminos legales 5</a></li>
+                </ul>
+
+            </div>
+            <div id="contactos">
                 <ul>
-                        <li><a href="">Datos 1</a></li>
-                        <li><a href="">Datos 2</a></li>
-                        <li><a href="">Datos 3</a></li>
-                        <li><a href="">Datos 4</a></li>
-                        <li><a href="">Datos 5</a></li>
-               </ul>
-                
-           </div>
+                    <li><a href="">Contacto 1</a></li>
+                    <li><a href="">Contacto 2</a></li>
+                    <li><a href="">Contacto 3</a></li>
+                    <li><a href="">Contacto 4</a></li>
+                    <li><a href="">Contacto 5</a></li>
+                </ul>
+
+            </div>
+            <div id="nosotros">
+                <ul>
+                    <li><a href="">Datos 1</a></li>
+                    <li><a href="">Datos 2</a></li>
+                    <li><a href="">Datos 3</a></li>
+                    <li><a href="">Datos 4</a></li>
+                    <li><a href="">Datos 5</a></li>
+                </ul>
+
+            </div>
         </div>
     </body>
 </html>

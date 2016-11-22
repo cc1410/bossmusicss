@@ -1,0 +1,43 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#votar{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+#votarConcierto, #votarMusico{
+
+    width: 30%;
+    height: auto;
+    display: inline-block;
+    
+}
+
+#votar ul{
+    list-style: none;
+    border-right: #000000 solid 2px;
+    border-left: #000000 solid 2px;
+}
+
+#votar input{
+    margin: 10px;
+}
+
+#nuevos {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-top: 5%;
+}
+
+#nuevos div{
+    width: 25%;
+    display: inline-block;
+    border: #000000 solid 2px;
+    margin: 30px;
+
+}
