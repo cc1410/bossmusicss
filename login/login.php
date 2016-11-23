@@ -56,9 +56,11 @@ and open the template in the editor.
             <div id="registrate">
                 <h3>Registrate como....</h3>
                 <a href="../registrolocal/registrolocal.php"><input type="button" value="LOCAL"></a>
-                <a href=""> <input type="button" value="MUSICO"></a>
+                <a href="../music/music.php"> <input type="button" value="MUSICO"></a>
                 <a href="../registrofans/registrofans.php"><input type="button" value="FANS"></a>
+             
             </div>
+             
         </div>
 
 

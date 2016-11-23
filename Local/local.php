@@ -37,7 +37,10 @@ and open the template in the editor.
             <div id="entrar">
                 <a href="../login/login.php"><input type="button" value="Salir"></a>
             </div>
-           
+            <div id="login">
+                <img src="login.png" alt="" />
+                <input type="button" value="Local">
+            </div>
         </header>
         
         

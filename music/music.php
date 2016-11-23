@@ -35,6 +35,10 @@
             <div id="entrar">
                 <a href="../login/login.php"><input type="button" value="ENTRAR"></a>
             </div>
+             <div id="login">
+                 <img src="imagenes/login.png" alt=""/>
+                <input type="button" value="Musico">
+            </div>
         </header>
         <h1>Lista de Conciertos</h1>
         <div id="rmusic">

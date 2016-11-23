@@ -20,7 +20,28 @@
     display: inline-block;
 
 }
-
+#login
+{
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    right: 80px;
+    top: 200px;
+    width:10%;
+    height: 10%;
+    display: inline-block;
+}
+ #login>img
+ {
+     width: 50px;
+     height: 50px;
+ }
+ #login>input
+ {
+     position: relative;
+     top:-23px;
+     
+ }
 .estado{
 
     display: inline;
