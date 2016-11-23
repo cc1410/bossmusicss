@@ -26,7 +26,7 @@ and open the template in the editor.
             </div>
             <div id="menucabezera">
                 <ul>
-                    <li><a href="">MENU</a></li>
+                    <li><a href="../homepage/homepage.php">MENU</a></li>
                     <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
                     <li><a href="../grupos/grupos.php">GRUPOS</a></li>
                     <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
@@ -35,7 +35,7 @@ and open the template in the editor.
                 </ul>
             </div>
             <div id="entrar">
-                <a href="../login/login.php"><input type="button" value="ENTRAR"></a>
+                <a href="../login/login.php"><input type="button" value="SALIR"></a>
             </div>
         </header>
 

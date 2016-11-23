@@ -25,7 +25,7 @@ and open the template in the editor.
             </div>
             <div id="menucabezera">
                 <ul>
-                    <li><a href="">MENU</a></li>
+                    <li><a href="homepage.php">MENU</a></li>
                     <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
                     <li><a href="../grupos/grupos.php">GRUPOS</a></li>
                     <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
