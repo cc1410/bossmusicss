@@ -12,10 +12,10 @@
 
         <header>
             <div id="imagenprincipal">
-                <img src="music.png" alt=""/>
+                <img src="../homepage/music.jpg" alt=""/>
             </div>
             <div id="logo">
-                <img src="logo1.png" alt=""/>
+                <img src="../homepage/logo1.png" alt=""/>
             </div>
             <div id="buscar">
                 <form action="" autocomplete="" method="POST">
@@ -25,18 +25,16 @@
             <div id="menucabezera">
                 <ul>
                     <li><a href="">MENU</a></li>
-                    <li><a href="">NOTICIAS</a></li>
-                    <li><a href="">GRUPOS</a></li>
-                    <li><a href="">CONCIERTOS</a></li>
+                    <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
+                    <li><a href="../grupos/grupos.php">GRUPOS</a></li>
+                    <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
                     <li><a href="">ARTICULOS</a></li>
-
+                    
                 </ul>
             </div>
             <div id="entrar">
                 <a href="../login/login.php"><input type="button" value="ENTRAR"></a>
             </div>
-
-
         </header>
         <h1>Lista de Conciertos</h1>
         <div id="rmusic">
