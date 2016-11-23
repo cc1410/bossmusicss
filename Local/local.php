@@ -35,7 +35,7 @@ and open the template in the editor.
                 </ul>
             </div>
             <div id="entrar">
-                <a href="../login/login.php"><input type="button" value="ENTRAR"></a>
+                <a href="../login/login.php"><input type="button" value="Salir"></a>
             </div>
            
         </header>

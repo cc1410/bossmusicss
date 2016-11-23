@@ -118,11 +118,9 @@ and open the template in the editor.
            </div>
            <div id="contactos">
                 <ul>
-                        <li><a href="">Contacto 1</a></li>
-                        <li><a href="">Contacto 2</a></li>
-                        <li><a href="">Contacto 3</a></li>
-                        <li><a href="">Contacto 4</a></li>
-                        <li><a href="">Contacto 5</a></li>
+                        <li><a href="">¿Quienes somos?</a></li>
+                        <li><a href="">Contactanos...</a></li>
+                        
                </ul>
                 
            </div>

@@ -109,6 +109,7 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     width: 80%;
     /*background-color: blue;*/
     
+    
 }
 #noticias h3{
     text-align: center;
@@ -257,12 +258,15 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 #legal
 {
     display: inline-block;
+     
     
 }
-#legal ul
+#legal li
 {
    
     text-decoration: none;
+    list-style: none;
+    
 }
 #contactos
 {
@@ -270,9 +274,17 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     position: relative;
     left: 250px;
 }
+#contactos li
+{
+    list-style: none;
+}
 #nosotros
 {
     display: inline-block;
      position: relative;
    left: 500px;
+}
+#nosotros li
+{
+     list-style: none;
 }
