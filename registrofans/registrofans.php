@@ -14,7 +14,7 @@ and open the template in the editor.
     <body>
         <header>
             <div id="imagenprincipal">
-                <img src="../homepage/music.png" alt=""/>
+                <img src="../homepage/music.jpg" alt=""/>
             </div>
             <div id="logo">
                 <img src="../homepage/logo1.png" alt=""/>
