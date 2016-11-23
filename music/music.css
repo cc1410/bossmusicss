@@ -1,13 +1,13 @@
 #rmusic{
     display: inline-block;
-    width: 100%;
+    width: 90%;
     background-color: #9999ff;
     border: 2px;
-    border-color: black;    
+    border-color: black;
+    margin-left: 5%;
 }
 
 #formulario1{
-
     display: inline;
 }
 
@@ -16,31 +16,33 @@
     display: inline;
 }
 .datos{
+    margin-left: 20%;
     display: inline-block;
 
 }
 
 .estado{
 
-    display: inline-block;
+    display: inline;
    
 }
 .estado img{
-    width: 30%;
-    height: 30%;
+    width: 25%;
+    height: 25%;
 }
 
 .datos2{
+    margin-left: 20%;
     display: inline-block;
 
 }
 
 .estado2{
 
-    display: inline-block;
+    display: inline;
 
 }
 .estado2 img{
-    width: 30%;
-    height: 30%;
+    width: 25%;
+    height: 25%;
 }

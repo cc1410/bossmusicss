@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <link href="csshomepage.css" rel="stylesheet" type="text/css"/>
-        <link href="musico.css" rel="stylesheet" type="text/css"/>
+        <link href="music.css" rel="stylesheet" type="text/css"/>
         <meta charset="UTF-8">
         <title>Document</title>
     </head>
@@ -65,7 +65,7 @@
 
                 <div class="estado">
                     <img src="imagenes/1420218355.jpg" alt=""/>
-                    <br>
+                    
                     estado
                 </div>
             </div>
@@ -94,7 +94,7 @@
                 <div class="estado2">
                     <img src="imagenes/conciertos-locales.jpg" alt=""/>
 
-                    <br>
+                   
                     Estado
                 </div>
             </div>
@@ -104,7 +104,8 @@
         </div>
 
         <div id="grupos">
-            Grupos de la semana            
+            <h1> Grupos de la semana </h1>
+                        
 
         </div>
 
