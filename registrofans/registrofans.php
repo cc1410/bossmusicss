@@ -25,11 +25,11 @@ and open the template in the editor.
             </form>
             </div>
             <div id="menucabezera">
-                <ul>
-                    <li><a href="">MENU</a></li>
+                 <ul>
+                    <li><a href="../homepage/homepage.php">MENU</a></li>
                     <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
-                    <li><a href="">GRUPOS</a></li>
-                    <li><a href="">CONCIERTOS</a></li>
+                    <li><a href="../grupos/grupos.php">GRUPOS</a></li>
+                    <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
                     <li><a href="">ARTICULOS</a></li>
                     
                 </ul>
