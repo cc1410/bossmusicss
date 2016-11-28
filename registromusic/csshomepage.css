@@ -4,15 +4,14 @@ header
     display: inline-block;
     background-color: aliceblue;
     width: 100%;
-    height: 250px;
     
 }
-header.clase>img:first-child
+
 #imagenprincipal
 {
     display: inline-block;
     width: 100%;
-    height: 40%;
+    height: 10%;
 }
 
 #imagenprincipal img
@@ -24,8 +23,6 @@ header.clase>img:first-child
 {
     display: inline-block;
     margin-left: 50px;
-    position: relative;
-    top: -160px;
         
 }
 
@@ -38,25 +35,17 @@ header.clase>img:first-child
 #menucabezera
 {
     display:inline-block;
-    width: 60%;
+    width: 50%;
     position: absolute;
-    left: 20px;
-    top: 180px;
-    background-color: #990099;
-  
-    
-    
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    left: 150px;
+    top: 250px;
         
     
 }
 #menucabezera li
 {
     display: inline;
-    margin: 2%;
-    
+    margin-left: 5%;
 }
 #menucabezera li a
 {
@@ -64,16 +53,14 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     voice-family: inherit;
     height: 24px;
     text-decoration: none;
-    color: #33ffcc;
-    
 }
 #buscar
 {
     display: inline-block;
-    position: absolute;
-    top: 170px;
-   right: 2%;
-    /*border: 2px black solid;*/
+    position: relative;
+    top: 40px;
+    right:-50%;
+    border: 2px black solid;
     vertical-align: top;
     
 }
@@ -81,17 +68,14 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 #buscar form input
 {
     color: blue;
-    
 }
 
 #entrar
 {
     display: inline-block;
     position: absolute;
-    right: 2%;
-    top: 210px;
-    
-   
+    right: 5%;
+    top: 250px;
 }
 #entrar a
 {
@@ -106,32 +90,16 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 #noticias
 {
     display: inline-block;
-    width: 100%;
+    width: 80%;
     /*background-color: blue;*/
     
-    
 }
-#noticias h3{
-    text-align: center;
-    color: #ffffff;
-    font-size: 25px;
-    margin: 17px;
-    width: 100%;
-    background-color:  #0000cc;
-    
-}
-
 #noticias article
 {
     display: inline-block;
-    width: 30%;
+    width: 40%;
     border:2px black solid;
-    margin: 30px;
-    
-    
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    margin: 15px;
     
 }
 #noticias article img
@@ -149,7 +117,33 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     color: firebrick;
 }
 
+/*lateral*/
 
+#lateral
+{
+    display: inline-block;
+    position: absolute;
+    top:370px;
+    width: 30%;
+    right: 1%;
+    height: 20%;
+    
+}
+
+#destacados
+{
+    display: block;
+    border: 2px black solid;
+    margin: 25px;
+    
+}
+
+#encuestas
+{
+    display: block;
+    border: 2px black solid;
+     margin: 25px;
+}
 
 /*conciertos*/
 
@@ -157,17 +151,10 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 {
     display:inline-block;
     border: 2px black solid;
-    width: 95%;
+    width: 90%;
     padding: 1%;
     background-color: #0099cc;
-    margin-top:50px;
-    margin-left: 10px;
 
-    
-}
-#conciertos h3
-{
-    text-align: center;
     
 }
 #listaconciertos
@@ -179,11 +166,6 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
    vertical-align: top;
    margin-left: 10%;
    background-color: #990099;
-   
-   
-   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 #listaconciertos ol a
 {
@@ -196,11 +178,6 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     border: 2px black solid;
      margin-left: 5%;
      vertical-align: top;
-     
-     
-     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     
 }
 #imagenconcierto1 img
@@ -215,30 +192,29 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 {
     display: inline-block;
     width: 100%;
-    text-align: center;
     background-color: #009999;
-    margin-top: 5%;
+    margin-top: 2%;
 }
 
-
+#legal
+{
+    display: inline-block;
+    
+}
+#legal ul
+{
+   
+    text-decoration: none;
+}
 #contactos
 {
     display: inline-block;
-    vertical-align: top;
-    margin-right: 15%;
-}
-#contactos li
-{
-    list-style: none;
+    position: relative;
+    left: 250px;
 }
 #nosotros
 {
     display: inline-block;
-    text-align: left;
-
-  
-}
-#nosotros li
-{
-     list-style: none;
+     position: relative;
+   left: 500px;
 }

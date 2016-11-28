@@ -7,12 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         <link href="../homepage/csshomepage.css" rel="stylesheet" type="text/css"/>
-        <link href="cssconciertos.css" rel="stylesheet" type="text/css"/>
+        <link href="cssregistrolocal.css" rel="stylesheet" type="text/css"/>
         <meta charset="UTF-8">
         <title></title>
     </head>
     <body>
-        <header>
+      <header>
             <div id="imagenprincipal">
                 <img src="../homepage/music.jpg" alt=""/>
             </div>
@@ -26,7 +26,7 @@ and open the template in the editor.
             </div>
             <div id="menucabezera">
                 <ul>
-                    <li><a href="../homepage/homepage.php">MENU</a></li>
+                   <li><a href="">MENU</a></li>
                     <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
                     <li><a href="../grupos/grupos.php">GRUPOS</a></li>
                     <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
@@ -37,17 +37,32 @@ and open the template in the editor.
             <div id="entrar">
                 <a href="../login/login.php"><input type="button" value="ENTRAR"></a>
             </div>
+           
+           
         </header>
         
-        <div id="body">
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-            <article><h3>Concierto</h3></article>
-             
-           
-            
-            
+        
+        <div id="formulariolocal">
+            <div id="datosusuario">
+                <h3>Datos de Usuario</h3>
+                <form accept-charset="" autocomplete="" method="POST"><br>
+                    Correo: <input type="email" name="email"><br>
+                    Password:<input type="password" name="passsword"><br>
+                    Confimar Password:<input type="password" name="password2"><br>
+                </form>
+                
+            </div>
+            <div id="datoslocal">
+                <h3>Datos del Local</h3>
+                <form action="" autocomplete="" method="POST"><br>
+                    Nombre Local:<input type="text" name="local"><br>
+                    Localidad:<input type="text" name="localidad"><br>
+                    <a href="../Local/local.php"><input type="button" value="DAR DE ALTA" name="ingresar"></a>
+                        
+                </form>
+                
+            </div>
+                 
         </div>
         
         
@@ -61,7 +76,15 @@ and open the template in the editor.
         
         
         
-        <div id="footer">
+        
+        
+        
+        
+        
+        
+        
+        
+         <div id="footer">
            <div id="legal">
                <ul>
                         <li><a href="">Terminos legales 1</a></li>
