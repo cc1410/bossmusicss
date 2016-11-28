@@ -194,27 +194,19 @@ header
     width: 100%;
     background-color: #009999;
     margin-top: 2%;
+    vertical-align: top;
 }
 
-#legal
-{
-    display: inline-block;
-    
-}
-#legal ul
-{
-   
-    text-decoration: none;
-}
+
 #contactos
 {
     display: inline-block;
-    position: relative;
-    left: 250px;
+    
+    
 }
 #nosotros
 {
     display: inline-block;
-     position: relative;
-   left: 500px;
+
+
 }

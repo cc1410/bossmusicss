@@ -90,12 +90,9 @@ and open the template in the editor.
         </div>
         <div id="footer">
 
-           <div id="legal">
-               <h4>¿quienes somos?</h4>
-                
-           </div>
+     
 
-           <div id="contactos">
+        <div id="contactos">
                 <ul>
                         <li><a href="../Quienes_Somos/quienes_somos.php">¿Quienes somos?</a></li>
                </ul>

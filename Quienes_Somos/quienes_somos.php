@@ -66,7 +66,7 @@ and open the template in the editor.
         <div id="footer">
            <div id="contactos">
                 <ul>
-                        <li><a href="">¿Quienes somos?</a></li>
+                        <li><a href="quienes_somos.php">¿Quienes somos?</a></li>
                </ul>
                 
            </div>
