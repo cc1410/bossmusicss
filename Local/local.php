@@ -38,7 +38,8 @@ and open the template in the editor.
             </div>
             <div id="login">
                 <img src="login.png" alt="" />
-                <input type="button" value="Local">
+                
+                <a href="../perfilLocal/perfilLocal.php"><input type="button" value="Local"></a>
             </div>
         </header>
         

@@ -33,7 +33,7 @@ and open the template in the editor.
               
             </div>
             <div id="entrar">
-                <a href="../login/login.php"><input type="button" value="SALIR"></a>
+                <a href="../login/login.php"><input type="button" value="Salir"></a>
             </div>
             <div id="login">
                 <img src="login.png" alt="" />

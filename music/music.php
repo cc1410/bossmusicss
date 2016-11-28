@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link href="csshomepage.css" rel="stylesheet" type="text/css"/>
+        <link href="../homepage/csshomepage.css" rel="stylesheet" type="text/css"/>
         <link href="music.css" rel="stylesheet" type="text/css"/>
         <meta charset="UTF-8">
         <title>Document</title>
@@ -25,17 +25,18 @@
             <div id="menucabezera">
                 <ul>
                     <li><a href="../homepage/homepage.php">INICIO</a></li>
-                      <li><a href="../Quienes_Somos/quienes_somos.php">QUIENES SOMOS</a></li>
-                      <li><a href="music.php">MUSICO</a></li>
+                    <li><a href="../Quienes_Somos/quienes_somos.php">QUIENES SOMOS</a></li>
+                    <li><a href="music.php">MUSICO</a></li>
 
                 </ul>
             </div>
             <div id="entrar">
-                <a href="../login/login.php"><input type="button" value="ENTRAR"></a>
+                <a href="../login/login.php"><input type="button" value="Salir"></a>
             </div>
             <div id="login">
                 <img src="imagenes/login.png" alt=""/>
-                <input type="button" value="Musico">
+                <a href="perfilmusic.php"><input type="button" value="Musico"></a>
+                
             </div>
         </header>
         <h1>Lista de Conciertos</h1>
@@ -56,110 +57,152 @@
                         </tr>
 
                         <tr>
-                            <td> dfdfd</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
+                            <td>Nombre del Local-</td>
+
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
                         </tr>
 
                         <tr>
-                            <td> kk</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
+                            <td>Nombre del Local-</td>
+
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
                         </tr>
 
                         <tr>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
+                            <td>Nombre del Local-</td>
+
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
                         </tr>
 
                         <tr>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
+                            <td>Nombre del Local-</td>
+
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
                         </tr>
 
                         <tr>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
+                            <td>Nombre del Local-</td>
 
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
                         </tr>
 
                         <tr>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
+                            <td>Nombre del Local-</td>
 
-                        </tr>
+                            <td>Fecha y hora- </td>
 
-                        <tr>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                        </tr>
+                            <td>Direccion-</td>
 
-                        <tr>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                        </tr>
+                            <td>Genero- </td>
 
-                        <tr>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
+                            <td>Estado del concierto </td>
 
                         </tr>
 
                         <tr>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
-                            <td> mm</td>
+                            <td>Nombre del Local-</td>
+
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
+                        </tr>
+
+                        <tr>
+                            <td>Nombre del Local-</td>
+
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
+                        </tr>
+
+                        <tr>
+                            <td>Nombre del Local-</td>
+
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
+
+                        </tr>
+
+                        <tr>
+                            <td>Nombre del Local-</td>
+
+                            <td>Fecha y hora- </td>
+
+                            <td>Direccion-</td>
+
+                            <td>Genero- </td>
+
+                            <td>Estado del concierto </td>
                         </tr>
 
                     </table>
 
                 </div>
 
+            </div>
 
-
-                <div id="footer">
-           <div id="contactos">
-                <ul>
-                        <li><a href="../Quienes_Somos/quienes_somos.php">¿Quienes somos?</a></li>
-               </ul>
-                
-           </div>
-           <div id="nosotros">
-                <ul>
-                        <li>Correo: chen986755611@gmail.com</li>
-                        <li>Contacto: 676437892</li>
-                        <li>Facebook: bossmusicss</li>
-                        <li>Twitter: bossmusicss</li>
-                        <li>Instagram: bossmusicss</li>
-               </ul>
-                
-           </div>
         </div>
-                </body>
-                </html>			
+
+        <div id="footer">
+            <div id="contactos">
+                <ul>
+                    <li><a href="">¿Quienes somos?</a></li>
+                </ul>
+
+            </div>
+            <div id="nosotros">
+                <ul>
+                    <li>Correo: chen986755611@gmail.com</li>
+                    <li>Contacto: 676437892</li>
+                    <li>Facebook: bossmusicss</li>
+                    <li>Twitter: bossmusicss</li>
+                    <li>Instagram: bossmusicss</li>
+                </ul>
+
+            </div>
+        </div>
+    </body>
+</html>			

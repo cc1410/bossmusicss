@@ -8,19 +8,25 @@
 }
 
 #formulario1{
+    width: 100%;
+    height: 100%;
     display: inline;
 }
 
-#formulario2{
 
-    display: inline;
-}
+
 .datos{
-    margin-left: 20%;
+    width: 100%;
+    height: 100%;
+   
     display: inline-block;
 
 }
 
+.datos2{
+    margin-left: 20%;
+    display: inline-block
+}
 #tabla{
     border: 2px solid #333333;
 
@@ -47,30 +53,24 @@
     top:-23px;
 
 }
-.estado{
 
+
+#imgperf {
+    width: 100%;
+    height: 100%;
     display: inline;
-
-}
-.estado img{
-    width: 25%;
-    height: 25%;
 }
 
-.datos2{
-    margin-left: 20%;
+
+#imgperf img{
+    vertical-align: top;
+    padding: 30px;
+    width: 10%;
+    height: 20%;
     display: inline-block;
-
 }
 
-.estado2{
-
-    display: inline;
-
+#tabla{
+    width: 100%;
+    height: 100%;
 }
-.estado2 img{
-    width: 25%;
-    height: 25%;
-}
-
-
