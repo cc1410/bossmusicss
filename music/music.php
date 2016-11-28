@@ -146,37 +146,22 @@
 
 
                 <div id="footer">
-                    <div id="legal">
-                        <ul>
-                            <li><a href="">Terminos legales 1</a></li>
-                            <li><a href="">Terminos legales 2</a></li>
-                            <li><a href="">Terminos legales 3</a></li>
-                            <li><a href="">Terminos legales 4</a></li>
-                            <li><a href="">Terminos legales 5</a></li>
-                        </ul>
-
-                    </div>
-                    <div id="contactos">
-                        <ul>
-                            <li><a href="">Contacto 1</a></li>
-                            <li><a href="">Contacto 2</a></li>
-                            <li><a href="">Contacto 3</a></li>
-                            <li><a href="">Contacto 4</a></li>
-                            <li><a href="">Contacto 5</a></li>
-                        </ul>
-
-                    </div>
-                    <div id="nosotros">
-                        <ul>
-                            <li><a href="">Datos 1</a></li>
-                            <li><a href="">Datos 2</a></li>
-                            <li><a href="">Datos 3</a></li>
-                            <li><a href="">Datos 4</a></li>
-                            <li><a href="">Datos 5</a></li>
-                        </ul>
-
-                    </div>
-                </div>
-
+           <div id="contactos">
+                <ul>
+                        <li><a href="">¿Quienes somos?</a></li>
+               </ul>
+                
+           </div>
+           <div id="nosotros">
+                <ul>
+                        <li>Correo: chen986755611@gmail.com</li>
+                        <li>Contacto: 676437892</li>
+                        <li>Facebook: bossmusicss</li>
+                        <li>Twitter: bossmusicss</li>
+                        <li>Instagram: bossmusicss</li>
+               </ul>
+                
+           </div>
+        </div>
                 </body>
                 </html>			

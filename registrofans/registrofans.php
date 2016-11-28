@@ -37,7 +37,7 @@ and open the template in the editor.
             <div id="entrar">
                 <a href="../login/login.php"><input type="button" value="ENTRAR"></a>
             </div>
-           
+        </header>
             <div id="formulariofans"> 
                 <div id="datosfans">
                      <h3>Datos de Usuario</h3>
@@ -72,38 +72,24 @@ and open the template in the editor.
             
             
             <div id="footer">
-           <div id="legal">
-               <ul>
-                        <li><a href="">Terminos legales 1</a></li>
-                        <li><a href="">Terminos legales 2</a></li>
-                        <li><a href="">Terminos legales 3</a></li>
-                        <li><a href="">Terminos legales 4</a></li>
-                        <li><a href="">Terminos legales 5</a></li>
-               </ul>
-                
-           </div>
            <div id="contactos">
                 <ul>
-                        <li><a href="">Contacto 1</a></li>
-                        <li><a href="">Contacto 2</a></li>
-                        <li><a href="">Contacto 3</a></li>
-                        <li><a href="">Contacto 4</a></li>
-                        <li><a href="">Contacto 5</a></li>
+                        <li><a href="">¿Quienes somos?</a></li>
                </ul>
                 
            </div>
            <div id="nosotros">
                 <ul>
-                        <li><a href="">Datos 1</a></li>
-                        <li><a href="">Datos 2</a></li>
-                        <li><a href="">Datos 3</a></li>
-                        <li><a href="">Datos 4</a></li>
-                        <li><a href="">Datos 5</a></li>
+                        <li>Correo: chen986755611@gmail.com</li>
+                        <li>Contacto: 676437892</li>
+                        <li>Facebook: bossmusicss</li>
+                        <li>Twitter: bossmusicss</li>
+                        <li>Instagram: bossmusicss</li>
                </ul>
                 
            </div>
         </div>
            
-        </header>
+       
     </body>
 </html>

@@ -6,13 +6,15 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <link href="../homepage/csshomepage.css" rel="stylesheet" type="text/css"/>
-        <link href="cssregistrolocal.css" rel="stylesheet" type="text/css"/>
         <meta charset="UTF-8">
+        <link href="../homepage/csshomepage.css" rel="stylesheet" type="text/css"/>
+        <link href="quienes_somos.css" rel="stylesheet" type="text/css"/>
         <title></title>
     </head>
     <body>
-      <header>
+       
+            
+              <header>
             <div id="imagenprincipal">
                 <img src="../homepage/music.jpg" alt=""/>
             </div>
@@ -40,31 +42,31 @@ and open the template in the editor.
            
            
         </header>
-        
-        
-        <div id="formulariolocal">
-            <div id="datosusuario">
-                <h3>Datos de Usuario</h3>
-                <form accept-charset="" autocomplete="" method="POST"><br>
-                    Correo: <input type="email" name="email"><br>
-                    Password:<input type="password" name="passsword"><br>
-                    Confimar Password:<input type="password" name="password2"><br>
-                </form>
-                
+         <div id="miembros">
+            <div>
+
+                <p>Juan Elberto Martin Bartolome</p>
+                <p>Soy un alumno del Ciclo formativo de grado 
+                superior en DAM1T1 </p>
             </div>
-            <div id="datoslocal">
-                <h3>Datos del Local</h3>
-                <form action="" autocomplete="" method="POST"><br>
-                    Nombre Local:<input type="text" name="local"><br>
-                    Localidad:<input type="text" name="localidad"><br>
-                    <a href="../Local/local.php"><input type="button" value="DAR DE ALTA" name="ingresar"></a>
-                        
-                </form>
-                
+
+
+            <div>
+
+                <p> Chenchen Wu</p>
+                <p>Soy un alumno del Ciclo formativo de grado 
+                superior en DAM1T1 </p>
             </div>
-                 
+
+            <div>
+
+                <p> Daniel Lagunes</p>
+                 <p>Soy un alumno del Ciclo formativo de grado 
+                 superior en DAM1T1 </p>
+            </div>
         </div>
-         <div id="footer">
+        
+        <div id="footer">
            <div id="contactos">
                 <ul>
                         <li><a href="">¿Quienes somos?</a></li>
