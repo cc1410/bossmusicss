@@ -251,28 +251,17 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 {
     display: inline-block;
     width: 100%;
+    text-align: center;
     background-color: #009999;
-    margin-top: 2%;
+    margin-top: 5%;
 }
 
-#legal
-{
-    display: inline-block;
-     
-    
-}
-#legal li
-{
-   
-    text-decoration: none;
-    list-style: none;
-    
-}
+
 #contactos
 {
     display: inline-block;
-    position: relative;
-    left: 250px;
+    vertical-align: top;
+    margin-right: 15%;
 }
 #contactos li
 {
@@ -281,8 +270,9 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 #nosotros
 {
     display: inline-block;
-     position: relative;
-   left: 500px;
+    text-align: left;
+
+  
 }
 #nosotros li
 {
