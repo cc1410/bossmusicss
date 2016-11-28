@@ -61,34 +61,19 @@ and open the template in the editor.
                 
                 <a href=""><h4>TITULO</h4></a>
             </article>
+             <article>
+                <a href=""><img src="../imagenes de noticias/descarga.jpg" alt=""/></a>
+                
+                <a href=""><h4>TITULO</h4></a>
+            </article>
+             <article>
+                <a href=""><img src="../imagenes de noticias/descarga.jpg" alt=""/></a>
+                
+                <a href=""><h4>TITULO</h4></a>
+            </article>
         </div>
         
-        <div id="lateral">
-            <div id="destacados">
-                <h3>Destacados</h3>
-                <div class="listadestacados">
-                    <ol>
-                        <li><a href="">Musico 1</a></li>
-                        <li><a href="">Musico 2</a></li>
-                        <li><a href="">Musico 3</a></li>
-                        <li><a href="">Musico 4</a></li>
-                        <li><a href="">Musico 5</a></li>
-                    </ol>
-                </div>
-            </div>
-            <div id="encuestas">
-                <h3>Encuestas</h3>
-                <div class="listaencuestas">
-                    <ol>
-                        <li><a href="">Encuesta 1</a></li>
-                        <li><a href="">Encuesta 2</a></li>
-                        <li><a href="">Encuesta 3</a></li>
-                        <li><a href="">Encuesta 4</a></li>
-                        <li><a href="">Encuesta 5</a></li>
-                    </ol>
-                </div>
-            </div>
-        </div>
+        
         <div id="conciertos">
             <h3>Lista de Conciertos</h3>
             <div id="listaconciertos">
@@ -107,13 +92,7 @@ and open the template in the editor.
         </div>
         <div id="footer">
            <div id="legal">
-               <ul>
-                        <li><a href="">Terminos legales 1</a></li>
-                        <li><a href="">Terminos legales 2</a></li>
-                        <li><a href="">Terminos legales 3</a></li>
-                        <li><a href="">Terminos legales 4</a></li>
-                        <li><a href="">Terminos legales 5</a></li>
-               </ul>
+               <h4>¿quienes somos?</h4>
                 
            </div>
            <div id="contactos">

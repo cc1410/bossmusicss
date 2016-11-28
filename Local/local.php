@@ -72,22 +72,22 @@ and open the template in the editor.
             <div id="contratados">
                 <h3>Conciertos contratados</h3>
                 <ul>
-                    <li><a href="">Siguiente concierto</a></li>
-                    <li><a href="">2º Concierto</a></li>
-                    <li><a href="">3º Concierto</a></li>
-                    <li><a href="">4º Concierto</a></li>
-                    <li><a href="">5º Concierto</a></li>
+                    <li><a href="">Concierto 1 / 12/10/2016  / 21:00  /  Rock</a></li>
+                    <li><a href="">Concierto 2 / 16/11/2016  / 21:00  /  Jazz</a></li>
+                    <li><a href="">Concierto 3 / 21/11/2016  / 21:00  /  Rock</a></li>
+                    <li><a href="">Concierto 4 / 25/12/2016  / 21:00  /  Pop</a></li>
+                    <li><a href="">Concierto 5 / 28/12/2016  / 21:00  /  Country</a></li>
                     
                 </ul>
             </div>
             <div id="eventos">
-                <h3>Proximos Eventos</h3>
+                <h3>Conciertos pendientes de asignar musicos</h3>
                 <ul>
-                    <li><a href="">Evento1 / Fecha</a></li>
-                    <li><a href="">Evento2 / Fecha</a></li>
-                    <li><a href="">Evento3 / Fecha</a></li>
-                    <li><a href="">Evento4 / Fecha</a></li>
-                    <li><a href="">Evento5 / Fecha</a></li>
+                    <li><a href="">Concierto para el 12/01/2017  / 21:00  /  Rock   <input type="submit" value="Buscar grupo">  </a></li><br>
+                    <li><a href="">Concierto para el 25/01/2017  / 21:00  /  Jazz    <input type="submit" value="Buscar grupo"></a></li><br>
+                    <li><a href="">Concierto para el 05/02/2017  / 21:00  /  Rock    <input type="submit" value="Buscar grupo"></a></li><br>
+                    <li><a href="">Concierto para el 14/02/2017  / 21:00  /  Rock   <input type="submit" value="Buscar grupo"></a></li><br>
+                    <li><a href="">Concierto para el 25/02/2017  / 21:00  /  Country   <input type="submit" value="Buscar grupo"></a></li><br>
                     
                 </ul>
             </div>
@@ -97,11 +97,12 @@ and open the template in the editor.
             <div id="lateral1">
                 <h3>Lista de grupos de interes</h3>
                 <ul>
-                    <li><a href="">Grupo 1</a></li>
-                    <li><a href="">Grupo 2</a></li>
-                    <li><a href="">Grupo 3</a></li>
-                    <li><a href="">Grupo 4</a></li>
-                    <li><a href="">Grupo 5</a></li>
+                    <li><a href="">Grupo: PlayMusic</a></li>
+                    <li><a href="">Genero: Pop</a></li><br>
+                    <input type="submit" value="Ver Grupo"><br>
+                    <li><a href="">Grupo: Los Marchosos</a></li>
+                    <li><a href="">Genero: Rock</a></li>
+                    <input type="submit" value="Ver Grupo">
                     
                 </ul>
             </div>
