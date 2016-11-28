@@ -97,11 +97,11 @@ and open the template in the editor.
                 <h3>Lista de grupos de interes</h3>
                 <ul>
                     <li><a href="">Grupo: PlayMusic</a></li>
-                    <li><a href="">Genero: Pop</a></li><br>
-                    <input type="submit" value="Ver Grupo"><br>
+                    <li><a href="">Genero: Pop   <input type="submit" value="Ver Grupo"></a></li><br>
+      
                     <li><a href="">Grupo: Los Marchosos</a></li>
-                    <li><a href="">Genero: Rock</a></li>
-                    <input type="submit" value="Ver Grupo">
+                    <li><a href="">Genero: Rock     <input type="submit" value="Ver Grupo"></a></li>
+                    
                     
                 </ul>
             </div>

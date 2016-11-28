@@ -1,0 +1,43 @@
+#perfil
+{
+   margin-left: 600px;
+   width: 100px;
+}
+
+#formulario
+{
+    width: 100%;
+    display: inline-block;
+    height: 800px;
+}
+
+#local1
+{
+    display: inline-block;
+    width:30%;
+    height: 600px;
+   text-align: left;
+   border-left: 2px #000000 solid;
+   
+   
+}
+#local1 input
+{
+     margin-bottom: 20px;
+     
+}
+#local2
+{
+    vertical-align: top;
+  
+    display:inline-block;
+    width:30%;
+    height: 600px;
+    margin-left: 100px;
+     border-left : 2px #000000 solid;
+     margin-left: 40px;
+}
+#local2 input
+{
+    margin-bottom: 20px;
+}

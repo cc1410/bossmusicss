@@ -149,6 +149,7 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     position: relative;
     top: -50px;
     
+    
     border-radius: 0px 200px 200px 200px;
 -moz-border-radius: 0px 200px 200px 200px;
 -webkit-border-radius: 0px 200px 200px 200px;
@@ -157,6 +158,10 @@ border: 0px solid #000000;
 
 background-color: #ffcc00;
     
+}
+#lateral1 li
+{
+    list-style: none;
 }
 #lateral2
 {
