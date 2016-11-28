@@ -20,6 +20,11 @@
     display: inline-block;
 
 }
+
+#tabla{
+    border: 2px solid #333333;
+
+}
 #login
 {
     position: absolute;
@@ -31,21 +36,21 @@
     height: 10%;
     display: inline-block;
 }
- #login>img
- {
-     width: 50px;
-     height: 50px;
- }
- #login>input
- {
-     position: relative;
-     top:-23px;
-     
- }
+#login>img
+{
+    width: 50px;
+    height: 50px;
+}
+#login>input
+{
+    position: relative;
+    top:-23px;
+
+}
 .estado{
 
     display: inline;
-   
+
 }
 .estado img{
     width: 25%;
@@ -67,3 +72,5 @@
     width: 25%;
     height: 25%;
 }
+
+
