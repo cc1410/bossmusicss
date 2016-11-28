@@ -86,7 +86,6 @@ and open the template in the editor.
                         <li>Twitter: bossmusicss</li>
                         <li>Instagram: bossmusicss</li>
                         
-                        
                </ul>
                 
            </div>
