@@ -26,18 +26,16 @@ and open the template in the editor.
             </div>
             <div id="menucabezera">
                 <ul>
-                    <li><a href="../homepage/homepage.php">MENU</a></li>
-                    <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
-                    <li><a href="../grupos/grupos.php">GRUPOS</a></li>
-                    <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
-                    <li><a href="">ARTICULOS</a></li>
-                    
+                    <li><a href="../homepage/homepage.php">INICIO</a></li>
+                      <li><a href="../Quienes_Somos/quienes_somos.php">QUIENES SOMOS</a></li>
+                      <li><a href="fans.php">FANS</a></li>
                 </ul>
+              
             </div>
             <div id="entrar">
                 <a href="../login/login.php"><input type="button" value="SALIR"></a>
             </div>
-             <div id="login">
+            <div id="login">
                 <img src="login.png" alt="" />
                 <input type="button" value="Fans">
             </div>
@@ -46,44 +44,44 @@ and open the template in the editor.
         <div id="votar">
             <div id="votarConcierto">
                 <form>
-                <ul> 
-                    <h3>Votacion de Conciertos</h3>
-                   <li>
+                    <ul> 
+                        <h3>Votacion de Conciertos</h3>
+                        <li>
                             Conciertos:  1<input type="radio" name="votarc1" value="1">
                             2<input type="radio" name="votarc1" value="2"> 
                             3<input type="radio" name="votarc1" value="3"> 
                             4<input type="radio" name="votarc1" value="4"> 
                             5<input type="radio" name="votarc1" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Conciertos:  1<input type="radio" name="votarc2" value="1">
                             2<input type="radio" name="votarc2" value="2"> 
                             3<input type="radio" name="votarc2" value="3"> 
                             4<input type="radio" name="votarc2" value="4"> 
                             5<input type="radio" name="votarc2" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Conciertos:  1<input type="radio" name="votarc3" value="1">
                             2<input type="radio" name="votarc3" value="2"> 
                             3<input type="radio" name="votarc3" value="3"> 
                             4<input type="radio" name="votarc3" value="4"> 
                             5<input type="radio" name="votarc3" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Conciertos:  1<input type="radio" name="votarc4" value="1">
                             2<input type="radio" name="votarc4" value="2"> 
                             3<input type="radio" name="votarc4" value="3"> 
                             4<input type="radio" name="votarc4" value="4"> 
                             5<input type="radio" name="votarc4" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Conciertos:  1<input type="radio" name="votarc5" value="1">
                             2<input type="radio" name="votarc5" value="2"> 
                             3<input type="radio" name="votarc5" value="3"> 
                             4<input type="radio" name="votarc5" value="4"> 
                             5<input type="radio" name="votarc5" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Conciertos:  1<input type="radio" name="votarc6" value="1">
                             2<input type="radio" name="votarc6" value="2"> 
                             3<input type="radio" name="votarc6" value="3"> 
@@ -91,47 +89,47 @@ and open the template in the editor.
                             5<input type="radio" name="votarc6" value="5"> 
                         </li>
                         <input type="submit" name="enviarc" value="votarConciertos">
-                </ul></form>
+                    </ul></form>
             </div>
             <div id="votarMusico">
                 <form> <ul> 
-                    <h3>Votacion de Músicos</h3>
-                    <li>
+                        <h3>Votacion de Músicos</h3>
+                        <li>
                             Músicos:  1<input type="radio" name="votarm1" value="1">
                             2<input type="radio" name="votarm1" value="2"> 
                             3<input type="radio" name="votarm1" value="3"> 
                             4<input type="radio" name="votarm1" value="4"> 
                             5<input type="radio" name="votarm1" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Músicos:  1<input type="radio" name="votarm2" value="1">
                             2<input type="radio" name="votarm2" value="2"> 
                             3<input type="radio" name="votarm2" value="3"> 
                             4<input type="radio" name="votarm2" value="4"> 
                             5<input type="radio" name="votarm2" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Músicos:  1<input type="radio" name="votarm3" value="1">
                             2<input type="radio" name="votarm3" value="2"> 
                             3<input type="radio" name="votarm3" value="3"> 
                             4<input type="radio" name="votarm3" value="4"> 
                             5<input type="radio" name="votarm3" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Músicos:  1<input type="radio" name="votarm4" value="1">
                             2<input type="radio" name="votarm4" value="2"> 
                             3<input type="radio" name="votarm4" value="3"> 
                             4<input type="radio" name="votarm4" value="4"> 
                             5<input type="radio" name="votarm4" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Músicos:  1<input type="radio" name="votarm5" value="1">
                             2<input type="radio" name="votarm5" value="2"> 
                             3<input type="radio" name="votarm5" value="3"> 
                             4<input type="radio" name="votarm5" value="4"> 
                             5<input type="radio" name="votarm5" value="5"> 
                         </li>
-                    <li>
+                        <li>
                             Músicos:  1<input type="radio" name="votarm6" value="1">
                             2<input type="radio" name="votarm6" value="2"> 
                             3<input type="radio" name="votarm6" value="3"> 
@@ -139,10 +137,10 @@ and open the template in the editor.
                             5<input type="radio" name="votarm6" value="5"> 
                         </li>
                         <input type="submit" name="enviarm" value="votarMúsicos"
-                </ul></form>
+                    </ul></form>
             </div>
         </div>
-        
+
         <div id="nuevos">
             <div>
                 titulo 
@@ -155,7 +153,7 @@ and open the template in the editor.
                 <p>
                     Estos son informacion de nuevos conciertos
                 </p>
-                
+
             </div>
             <div>
                 titulo
@@ -182,24 +180,24 @@ and open the template in the editor.
                 </p>
             </div>
         </div>
-        
-         <div id="footer">
-           <div id="contactos">
+
+        <div id="footer">
+            <div id="contactos">
                 <ul>
-                        <li><a href="">¿Quienes somos?</a></li>
-               </ul>
-                
-           </div>
-           <div id="nosotros">
+                    <li><a href="../Quienes_Somos/quienes_somos.php">¿Quienes somos?</a></li>
+                </ul>
+
+            </div>
+            <div id="nosotros">
                 <ul>
-                        <li>Correo: chen986755611@gmail.com</li>
-                        <li>Contacto: 676437892</li>
-                        <li>Facebook: bossmusicss</li>
-                        <li>Twitter: bossmusicss</li>
-                        <li>Instagram: bossmusicss</li>
-               </ul>
-                
-           </div>
+                    <li>Correo: chen986755611@gmail.com</li>
+                    <li>Contacto: 676437892</li>
+                    <li>Facebook: bossmusicss</li>
+                    <li>Twitter: bossmusicss</li>
+                    <li>Instagram: bossmusicss</li>
+                </ul>
+
+            </div>
         </div>
 
     </body>

@@ -6,12 +6,12 @@ html, body{
 #miembros{
     display: inline-block;
     text-align: center;
-        border: black solid 2px;
+ 
 }
 
 #miembros div{
     display: inline-block;
-    padding: 5px;
+    padding: 4%;
     width: 25%;
     
 }

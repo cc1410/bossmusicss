@@ -24,11 +24,9 @@
             </div>
             <div id="menucabezera">
                 <ul>
-                    <li><a href="">MENU</a></li>
-                    <li><a href="../homepage/homepage.php">NOTICIAS</a></li>
-                    <li><a href="../grupos/grupos.php">MI PERFIL</a></li>
-                    <li><a href="../conciertos/conciertos.php">CONCIERTOS</a></li>
-                    <li><a href="">ARTICULOS</a></li>
+                    <li><a href="../homepage/homepage.php">INICIO</a></li>
+                      <li><a href="../Quienes_Somos/quienes_somos.php">QUIENES SOMOS</a></li>
+                      <li><a href="music.php">MUSICO</a></li>
 
                 </ul>
             </div>
@@ -148,7 +146,7 @@
                 <div id="footer">
            <div id="contactos">
                 <ul>
-                        <li><a href="">¿Quienes somos?</a></li>
+                        <li><a href="../Quienes_Somos/quienes_somos.php">¿Quienes somos?</a></li>
                </ul>
                 
            </div>
